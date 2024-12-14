@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.img-btn {
+  height: 15vh;
+
+  width: 43vh;
+  border: none;
+  background-color: transparent;
+  margin-right: 20px;
+  outline: none;
+  cursor: pointer;
+}
+.img {
+  height: 10vh;
+  width: 43vh;
+}
